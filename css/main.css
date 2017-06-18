@@ -280,3 +280,7 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+.li-connect-widget .li-connect-mark {
+    background: url("/img/LinkedIn.png") -92px -42px no-repeat !important;
+}
